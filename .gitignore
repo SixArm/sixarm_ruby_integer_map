@@ -1,0 +1,7 @@
+/.bundle
+/.yardoc
+/vendor/
+/Gemfile.lock
+/coverage/
+/coverage.data
+.DS_Store
