@@ -97,7 +97,7 @@ DEPENDENCIES
   rubocop (>= 0.52.1, < 1)
   rubocop-performance (>= 1.1.0, < 2)
   rubycritic (>= 3.3.0, < 4)
-  simplecov (>= 0.14.1, < 2)
+  simplecov (>= 0.18.0, < 2)
   sixarm_ruby_integer_map!
   sixarm_ruby_minitest_extensions (>= 1.0.8, < 2)
 
